@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezufaixa.github.io/Fgx/sitemap_index.txt
+Sitemap: https://ezufaixa.github.io/IyP/sitemap_index.txt
+Sitemap: https://ezufaixa.github.io/aQe/sitemap_index.txt
+Sitemap: https://ezufaixa.github.io/aqY/sitemap_index.txt
